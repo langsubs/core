@@ -1,4 +1,4 @@
-Natural Language Substrate
+Core
 ====
 
 
